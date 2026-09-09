@@ -5,7 +5,7 @@
 | Metadata | Details |
 | :--- | :--- |
 | **Incident / Case Title** | Suspicious Inbound Email – "The Greenholt Phish" |
-| **Alert Date / Time** | 09-09-2026/ 14:00:00 UTC |
+| **Alert Date / Time** | June 10, 2020 / 10:15:20 UTC |
 | **Severity Level** | High |
 | **Incident Classification** | **True Positive** (Spearphishing / Spoofing & Malicious Attachment) |
 | **Analyst Name** | Shreyansh Lohumi |
