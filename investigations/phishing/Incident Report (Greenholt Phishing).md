@@ -11,7 +11,7 @@
 | **Analyst Name** | Shreyansh Lohumi |
 
 ### Summary Statement
-A suspicious email with the subject `"SWT_#09674321____PDF__"` was delivered to an internal employee. The email claimed to contain a transfer document from **Mr. James Jackson** (`info@mutawamarine.com`). Header analysis confirmed spoofing and authentication failures, as the email originated from a Hostwinds LLC server (`192.119.71.157`) and directed replies to a external Gmail-style mailbox (`info.mutawamarine@mail.com`). The email contained a **400.26 KB** archive attachment named `SWT_#09674321____PDF__.CAB`, which double-extension analysis revealed to actually be a **RAR compressed archive** (`SHA256: 2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f`).
+A suspicious email with a `.rar` attachment titled `"SWT_#09674321____PDF__"` was delivered to an internal employee. The email claimed to contain a transfer document from **Mr. James Jackson** (`info@mutawamarine.com`). Header analysis confirmed spoofing and authentication failures, as the email originated from a Hostwinds LLC server (`192.119.71.157`) and directed replies to a external Gmail-style mailbox (`info.mutawamarine@mail.com`). The email contained a **400.26 KB** archive attachment named `SWT_#09674321____PDF__.CAB`, which double-extension analysis revealed to actually be a **RAR compressed archive** (`SHA256: 2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f`).
 
 ---
 
